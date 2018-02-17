@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "703845016966",
+    "firebase_url": "https://ncars-gestao.firebaseio.com",
+    "project_id": "ncars-gestao",
+    "storage_bucket": "ncars-gestao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703845016966:android:5aec2bea82cd2eaa",
+        "android_client_info": {
+          "package_name": "ncars.gestao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703845016966-mp3st5j4dicqn6f5995sgdo275943fds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADyq95mdaPxEcdbFMxduWFA6J2Vb9Kog8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
